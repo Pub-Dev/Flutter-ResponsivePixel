@@ -1,0 +1,22 @@
+name: flutter_responsive_pixel_example
+description: Projeto de exemplo funcional.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Implemente aqui a library para utilizar do responsive pixel
+  flutter_responsive_pixel: ^1.0.2
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
