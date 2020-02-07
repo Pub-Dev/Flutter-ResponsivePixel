@@ -17,12 +17,7 @@ Sim, no aparelho do modelo desenhado dá certo, porem na versão do celular com 
 
 ## Como resolver?
 
-Basta instalar a library **flutter_responsive_pixel** no arquivo **pubspec.yaml**.
-
-```dart
-dependencies:
-  responsive_pixel: ^1.0.4
-```
+Basta instalar a library **Responsive-Pixel**.
 
 Feito isto, **bora para o codigo!**
 
@@ -71,6 +66,7 @@ Caso deseja delimitar apenas uma propriedade, para não ultrapassar o limite em 
 ## Colaboradores
 - Rafael Kenji Nagai
 
-## Links
-[Flutter Package](https://pub.dev/packages/flutter_responsive_pixel)
 
+
+## Documentação
+[Git Hub Documentation](https://github.com/Dev-Pub/Flutter-Responsive-Pixel)
